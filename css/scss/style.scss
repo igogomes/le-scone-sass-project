@@ -1,2 +1,8 @@
 @import 'reset';
 @import 'grid';
+@import 'variaveis-mixins';
+
+div {
+    font-family: 'Aref Ruqaa', serif;
+    font-family: 'PT Mono', monospace;
+}
