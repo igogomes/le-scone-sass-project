@@ -228,7 +228,10 @@ table {
   clear: both;
 }
 
-div {
-  font-family: 'Aref Ruqaa', serif;
-  font-family: 'PT Mono', monospace;
+/* CORES */
+/* FONTES */
+body {
+  background: #EDECE4;
+  border: 10px solid #CBC6B9;
+  color: #2A2426;
 }
